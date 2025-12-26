@@ -1,2 +1,3 @@
-# team_public_algorithm_problems
-团队共享算法题库以及题解
+# 目录
+
+[贪心](./greedy/README.md)
