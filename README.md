@@ -9,3 +9,6 @@
 
 ### 数论
 [乘法逆元](./modular%20inverse/README.md)  
+
+### 数据结构
+[线段树](./segment%20tree/README.md)  
